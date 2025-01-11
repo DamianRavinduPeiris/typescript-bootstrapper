@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ## How to Use:
 1. **Clone the Git repository** (if you don't already have it):
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/DamianRavinduPeiris/typescript-bootstrapper.git
+   cd typescript-bootstrapper
    ```
 
 2. **Run the script**:
