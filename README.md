@@ -24,8 +24,8 @@ Ensure you have the following installed:
    cd typescript-bootstrapper
    ```
 
-2. **Run the script**:
-   Execute the PowerShell script to automatically set up the TypeScript project.
+2. **Run the script using Windows Powershell.**:
+   Open up a new Powershell window and execute the below command in the above project location.
    
    ```bash
    ./setup-typescript.ps1
