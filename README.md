@@ -1,4 +1,4 @@
-# TypeScript Project Setup Script
+# TypeScript Bootstrapper 🚀
 
 This script automates the process of setting up a new TypeScript project with a Node.js environment. It handles the initialization of a Git repository, installs necessary dependencies, configures TypeScript, and sets up a development environment with `nodemon` and `ts-node` for live reloading.
 
