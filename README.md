@@ -50,13 +50,18 @@ Ensure you have the following installed:
 
    This will start `nodemon` and run your `index.ts` file using `ts-node`. Any changes made to the `.ts` files will automatically trigger a reload.
 
-4. **Run the production environment**:
+   ⛔ **PS - Since the git initializing project is done by the script iteslf,you will get an error when interacting with `git`. To avoid it simply run the below command in your project folder.**
+
+
+    `git config --global --add safe.directory C:/Example/Your-project`
+
+5. **Run the production environment**:
    To run the compiled JavaScript code in the `dist` folder, use:
    ```bash
    npm run start
    ```
 
-5. **Modify your TypeScript code**:
+6. **Modify your TypeScript code**:
    You can now start coding in TypeScript! Your TypeScript files should be placed in the `src` folder. When you're ready to compile, the TypeScript compiler will output JavaScript files to the `dist` folder.
 
 ## File Structure:
